@@ -48,7 +48,7 @@ publish: true
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: three
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
